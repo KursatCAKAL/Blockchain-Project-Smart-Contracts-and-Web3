@@ -94,6 +94,12 @@ o-> Only One Driver can be proposed. Driver Proposals not holding in any array t
 -> https://docs.soliditylang.org/en/v0.8.13/units-and-global-variables.html <br/>
 6-)Creating Unix Time <br/>
 -> https://www.unixtimestamp.com/ <br/>
+7-)JSON Minifier for ETH and Web3 Connection
+-> https://codebeautify.org/jsonminifier
+8-)NodeJS Initialization Error
+-> https://github.com/felixrieseberg/windows-build-tools/issues/56
+9-)VSCode Max Tokenization Length Issue
+-> https://stackoverflow.com/questions/59282299/how-to-use-editor-maxtokenizationlinelength-in-a-vs-code-language-extension
 
 ## ✨ Result
 All functions are tested again and again they are operating without problem. As it can be seen in demo link. <br/>

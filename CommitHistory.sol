@@ -1,3 +1,16 @@
+MAJOR.MINOR.PATCH = 0.0.3
+
+Author : Kursat Cakal
+Date: 6/20/2022
+Update: PATCH
+Dependencies: Remix IDE, Solidity(0.8.13), JQuery, Bootstrap, NodeJS, Web3
+References: https://semver.org/
+
+Details
+{
+-Web3 Configurations is prepared for Solidity Contract Backend.
+}
+
 MAJOR.MINOR.PATCH = 0.0.2
 
 Author : Kursat Cakal
